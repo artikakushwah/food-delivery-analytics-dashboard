@@ -1,0 +1,151 @@
+Restaurant_ID,Restaurant_Name,City,Category,Avg_Cost_For_Two,Rating,Onboard_Date
+REST201,Kolkata Zone 1,Kolkata,Desserts,500,4.4,2023-12-21
+REST202,Bangalore Treats 2,Bangalore,Beverages,400,3.6,2023-12-24
+REST203,Chennai Kitchen 3,Chennai,North Indian,250,4.5,2023-06-01
+REST204,Bhopal Eats 4,Bhopal,Continental,250,3.5,2023-07-12
+REST205,Delhi Plates 5,Delhi,Continental,150,3.7,2023-01-14
+REST206,Indore Bites 6,Indore,Continental,150,3.3,2023-11-04
+REST207,Chennai Bites 7,Chennai,Beverages,350,3.5,2023-11-08
+REST208,Mumbai Junction 8,Mumbai,Beverages,200,4.2,2023-09-14
+REST209,Bangalore House 9,Bangalore,South Indian,250,4.7,2023-04-25
+REST210,Chennai Corner 10,Chennai,Fast Food,350,4.7,2023-04-24
+REST211,Mumbai Eats 11,Mumbai,Fast Food,200,4.1,2023-09-30
+REST212,Jaipur Treats 12,Jaipur,South Indian,200,3.7,2023-08-29
+REST213,Pune Tadka 13,Pune,Beverages,500,3.3,2023-08-26
+REST214,Chennai Zone 14,Chennai,South Indian,350,3.1,2023-12-17
+REST215,Indore Point 15,Indore,Fast Food,500,4.7,2023-03-12
+REST216,Chennai Delight 16,Chennai,Chinese,350,4.0,2023-02-20
+REST217,Kolkata Delight 17,Kolkata,Continental,400,3.1,2023-02-18
+REST218,Pune Bowl 18,Pune,North Indian,250,3.8,2023-05-25
+REST219,Pune Bowl 19,Pune,Desserts,250,3.5,2023-01-15
+REST220,Pune Express 20,Pune,Chinese,200,4.8,2023-08-22
+REST221,Pune Hotpot 21,Pune,Continental,400,3.8,2023-11-21
+REST222,Delhi Point 22,Delhi,Continental,250,3.6,2023-11-06
+REST223,Delhi Aroma 23,Delhi,Fast Food,300,4.3,2023-10-28
+REST224,Indore Grill 24,Indore,North Indian,300,4.0,2023-04-16
+REST225,Kolkata Zone 25,Kolkata,Beverages,200,4.4,2023-05-02
+REST226,Indore Aroma 26,Indore,North Indian,300,4.2,2023-12-08
+REST227,Bhopal Plates 27,Bhopal,North Indian,500,3.0,2023-05-24
+REST228,Pune Hotpot 28,Pune,Beverages,150,3.9,2023-06-29
+REST229,Jaipur Point 29,Jaipur,Continental,250,2.8,2023-04-14
+REST230,Mumbai Corner 30,Mumbai,North Indian,300,4.8,2023-05-17
+REST231,Jaipur Zone 31,Jaipur,Fast Food,500,3.7,2023-12-24
+REST232,Bhopal Bites 32,Bhopal,Desserts,500,3.0,2023-05-19
+REST233,Kolkata Junction 33,Kolkata,Chinese,400,4.6,2023-01-12
+REST234,Bhopal Tadka 34,Bhopal,Chinese,500,3.1,2023-07-07
+REST235,Kolkata Junction 35,Kolkata,Fast Food,400,3.3,2023-03-14
+REST236,Mumbai Hub 36,Mumbai,South Indian,250,3.0,2023-03-05
+REST237,Mumbai Aroma 37,Mumbai,Desserts,200,4.0,2023-07-31
+REST238,Chennai Point 38,Chennai,Continental,150,4.3,2023-05-01
+REST239,Hyderabad Junction 39,Hyderabad,South Indian,150,3.3,2023-07-02
+REST240,Delhi Bites 40,Delhi,Continental,600,4.0,2023-08-08
+REST241,Pune Delight 41,Pune,Continental,150,3.3,2023-12-10
+REST242,Bhopal Treats 42,Bhopal,Desserts,300,4.7,2023-11-06
+REST243,Mumbai Express 43,Mumbai,North Indian,350,3.0,2023-06-19
+REST244,Indore House 44,Indore,Beverages,200,3.7,2023-06-07
+REST245,Indore Zone 45,Indore,Continental,600,3.3,2023-03-21
+REST246,Mumbai Aroma 46,Mumbai,Chinese,400,4.8,2023-02-24
+REST247,Kolkata Grill 47,Kolkata,South Indian,150,3.8,2023-11-28
+REST248,Mumbai Tadka 48,Mumbai,Fast Food,150,3.5,2023-02-22
+REST249,Kolkata Express 49,Kolkata,Desserts,500,3.2,2023-12-09
+REST250,Delhi Grill 50,Delhi,Fast Food,600,3.0,2023-08-28
+REST251,Bhopal Corner 51,Bhopal,Beverages,500,3.0,2023-07-28
+REST252,Indore Point 52,Indore,Beverages,350,4.9,2023-06-21
+REST253,Delhi Plates 53,Delhi,Beverages,400,3.3,2023-07-25
+REST254,Hyderabad Grill 54,Hyderabad,North Indian,250,3.0,2023-01-30
+REST255,Kolkata Express 55,Kolkata,Fast Food,200,3.6,2023-12-15
+REST256,Chennai Plates 56,Chennai,South Indian,200,4.2,2023-09-11
+REST257,Jaipur Treats 57,Jaipur,Fast Food,200,4.8,2023-08-31
+REST258,Mumbai Junction 58,Mumbai,North Indian,600,3.7,2023-12-04
+REST259,Bhopal Hub 59,Bhopal,Desserts,150,4.5,2023-02-08
+REST260,Indore House 60,Indore,South Indian,150,3.3,2023-05-18
+REST261,Pune Hub 61,Pune,Beverages,400,3.7,2023-05-22
+REST262,Mumbai Treats 62,Mumbai,Chinese,250,2.8,2023-02-16
+REST263,Kolkata Grill 63,Kolkata,Continental,300,4.1,2023-03-21
+REST264,Bangalore Kitchen 64,Bangalore,North Indian,500,3.0,2023-04-24
+REST265,Bhopal Junction 65,Bhopal,North Indian,400,3.0,2023-06-06
+REST266,Jaipur House 66,Jaipur,Continental,600,4.8,2023-11-26
+REST267,Jaipur Point 67,Jaipur,South Indian,350,3.9,2023-09-05
+REST268,Pune Junction 68,Pune,Fast Food,400,3.9,2023-10-29
+REST269,Delhi Eats 69,Delhi,Fast Food,250,3.9,2023-08-03
+REST270,Hyderabad Eats 70,Hyderabad,South Indian,150,3.9,2023-05-22
+REST271,Indore Treats 71,Indore,Continental,400,3.9,2023-05-08
+REST272,Kolkata Point 72,Kolkata,Chinese,350,3.4,2023-12-29
+REST273,Bhopal Plates 73,Bhopal,Chinese,400,4.3,2023-04-20
+REST274,Chennai Cafe 74,Chennai,Beverages,350,3.8,2023-02-14
+REST275,Pune Express 75,Pune,Continental,300,4.9,2023-08-10
+REST276,Bangalore Cafe 76,Bangalore,Beverages,150,3.4,2023-02-01
+REST277,Pune Cafe 77,Pune,Chinese,150,3.7,2023-11-08
+REST278,Kolkata Aroma 78,Kolkata,Continental,300,3.5,2023-08-30
+REST279,Indore Hub 79,Indore,Chinese,200,3.6,2023-05-19
+REST280,Chennai Tadka 80,Chennai,Beverages,250,4.7,2023-08-04
+REST281,Chennai Aroma 81,Chennai,Chinese,250,3.5,2023-11-25
+REST282,Mumbai Hub 82,Mumbai,Fast Food,350,2.9,2023-12-12
+REST283,Delhi House 83,Delhi,North Indian,250,4.7,2023-08-07
+REST284,Hyderabad Express 84,Hyderabad,South Indian,400,3.9,2023-02-27
+REST285,Bangalore Treats 85,Bangalore,Desserts,500,4.9,2023-05-11
+REST286,Bhopal Bowl 86,Bhopal,Chinese,250,3.6,2023-01-06
+REST287,Pune Kitchen 87,Pune,Continental,400,3.5,2023-12-14
+REST288,Bhopal Eats 88,Bhopal,Beverages,300,3.2,2023-10-24
+REST289,Jaipur Eats 89,Jaipur,South Indian,350,3.0,2023-12-29
+REST290,Delhi Corner 90,Delhi,Chinese,400,3.1,2023-10-20
+REST291,Pune Zone 91,Pune,Beverages,200,3.9,2023-03-04
+REST292,Delhi Express 92,Delhi,Chinese,350,4.9,2023-07-05
+REST293,Bhopal Corner 93,Bhopal,North Indian,400,4.9,2023-05-04
+REST294,Hyderabad Corner 94,Hyderabad,Fast Food,300,3.6,2023-01-20
+REST295,Kolkata Point 95,Kolkata,Continental,350,3.4,2023-09-03
+REST296,Chennai Spice 96,Chennai,North Indian,500,3.8,2023-11-03
+REST297,Jaipur Hub 97,Jaipur,Continental,600,4.0,2023-07-18
+REST298,Mumbai Kitchen 98,Mumbai,Fast Food,600,4.8,2023-02-16
+REST299,Bangalore Treats 99,Bangalore,Continental,300,4.3,2023-02-04
+REST300,Indore Bites 100,Indore,South Indian,400,2.8,2023-07-30
+REST301,Kolkata Treats 101,Kolkata,Fast Food,400,3.9,2023-03-28
+REST302,Indore Zone 102,Indore,Desserts,600,3.0,2023-05-29
+REST303,Kolkata Express 103,Kolkata,South Indian,500,3.6,2023-06-21
+REST304,Jaipur Eats 104,Jaipur,Desserts,350,3.4,2023-02-13
+REST305,Jaipur Cafe 105,Jaipur,Continental,200,3.6,2023-09-30
+REST306,Pune Junction 106,Pune,Fast Food,200,3.5,2023-08-02
+REST307,Bhopal Cafe 107,Bhopal,South Indian,500,2.8,2023-12-06
+REST308,Delhi Point 108,Delhi,Chinese,400,3.7,2023-04-30
+REST309,Mumbai Treats 109,Mumbai,South Indian,400,4.5,2023-01-30
+REST310,Bhopal Bowl 110,Bhopal,South Indian,400,4.2,2023-12-12
+REST311,Bhopal Delight 111,Bhopal,Desserts,600,4.5,2023-10-05
+REST312,Mumbai Bites 112,Mumbai,Beverages,250,4.3,2023-05-13
+REST313,Kolkata Junction 113,Kolkata,Beverages,250,4.2,2023-06-10
+REST314,Bangalore Point 114,Bangalore,Desserts,250,4.3,2023-11-12
+REST315,Indore Junction 115,Indore,Fast Food,350,3.4,2023-04-13
+REST316,Kolkata Eats 116,Kolkata,Continental,300,4.2,2023-06-13
+REST317,Jaipur Junction 117,Jaipur,Continental,400,3.8,2023-10-09
+REST318,Mumbai Tadka 118,Mumbai,Beverages,200,3.0,2023-11-16
+REST319,Bhopal Hotpot 119,Bhopal,Beverages,250,3.4,2023-02-05
+REST320,Mumbai Zone 120,Mumbai,North Indian,150,4.1,2023-04-28
+REST321,Chennai Bites 121,Chennai,Continental,600,3.9,2023-04-04
+REST322,Delhi House 122,Delhi,Beverages,400,4.1,2023-03-09
+REST323,Pune Cafe 123,Pune,North Indian,200,2.8,2023-03-03
+REST324,Bhopal Hub 124,Bhopal,Beverages,350,4.2,2023-06-03
+REST325,Indore Express 125,Indore,Chinese,350,4.0,2023-01-03
+REST326,Bhopal Aroma 126,Bhopal,South Indian,350,3.0,2023-12-05
+REST327,Kolkata Delight 127,Kolkata,Desserts,250,3.6,2023-10-05
+REST328,Chennai Bowl 128,Chennai,Continental,600,4.5,2023-04-23
+REST329,Bangalore Plates 129,Bangalore,Beverages,300,3.1,2023-06-06
+REST330,Hyderabad Tadka 130,Hyderabad,South Indian,200,3.3,2023-07-08
+REST331,Chennai Zone 131,Chennai,Fast Food,600,2.9,2023-12-29
+REST332,Pune Bowl 132,Pune,South Indian,250,3.5,2023-12-03
+REST333,Hyderabad Hub 133,Hyderabad,Desserts,250,3.7,2023-04-05
+REST334,Chennai Zone 134,Chennai,South Indian,300,4.2,2023-05-08
+REST335,Pune Hotpot 135,Pune,Continental,200,3.4,2023-06-28
+REST336,Indore Delight 136,Indore,Fast Food,500,4.0,2023-04-22
+REST337,Pune Grill 137,Pune,Continental,150,4.6,2023-06-04
+REST338,Bangalore Junction 138,Bangalore,Desserts,250,4.3,2023-03-29
+REST339,Bangalore Kitchen 139,Bangalore,Continental,500,4.5,2023-08-12
+REST340,Hyderabad Express 140,Hyderabad,Continental,200,3.1,2023-03-30
+REST341,Kolkata Junction 141,Kolkata,Fast Food,300,4.2,2023-08-11
+REST342,Hyderabad Plates 142,Hyderabad,South Indian,200,3.2,2023-10-23
+REST343,Delhi Hub 143,Delhi,Chinese,300,3.7,2023-09-15
+REST344,Chennai Kitchen 144,Chennai,North Indian,300,3.7,2023-11-27
+REST345,Jaipur Kitchen 145,Jaipur,Desserts,500,3.3,2023-06-06
+REST346,Jaipur Corner 146,Jaipur,Desserts,250,4.2,2023-07-10
+REST347,Indore Delight 147,Indore,Continental,200,4.9,2023-03-22
+REST348,Bangalore Junction 148,Bangalore,Fast Food,200,2.9,2023-10-21
+REST349,Bhopal Express 149,Bhopal,South Indian,300,3.0,2023-05-10
+REST350,Indore Plates 150,Indore,Chinese,250,3.3,2023-06-03
