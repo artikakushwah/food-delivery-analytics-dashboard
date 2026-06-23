@@ -1,5 +1,3 @@
-Samajh gaya, simple plain version dobara deta hoon — bilkul wahi jo pehle diya tha, clean copy-paste ke liye:
-
 Food Delivery Analytics Project
 An end-to-end data analytics project covering data cleaning, relational database design, SQL analysis, and interactive dashboarding — built on a simulated food delivery business dataset.
 Problem Statement
